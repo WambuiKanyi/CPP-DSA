@@ -5,7 +5,7 @@ using namespace std;
 int main() {
     // Ask user for number of days
     int days;
-    cout << "Enter the number of days: ";
+    cout << "Enter the number of days to convert to seconds: ";
     cin >> days;
 
     // Convert: 1 day = 24 hrs * 60 min * 60 sec

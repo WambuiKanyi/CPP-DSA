@@ -8,8 +8,8 @@ int main() {
     // REPEAT...UNTIL loop becomes do...while in C++
     do {
         y = y - 4;          // SUBTRACT 4 FROM y
-        x = x + (2.0 / y); // ADD 2/y TO x
-    } while (y >= 6);      // UNTIL y IS LESS THAN 6
+        x = x + (2.0 / y); // ADD 2 divided by y TO x
+    } while (y >= 6);      // STOP when y IS LESS THAN 6
 
     cout << "x = " << x << endl;
     return 0;
