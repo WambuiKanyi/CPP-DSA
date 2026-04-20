@@ -15,7 +15,7 @@ void checkCase(char ch) {
 
 int main() {
     char ch;
-    cout << "Enter a character: ";
+    cout << "Please Enter a character: ";
     cin >> ch;
 
     checkCase(ch);

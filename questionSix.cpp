@@ -7,7 +7,7 @@ int main() {
     double arr[SIZE];
     double sum = 0;
 
-    // Use a loop to populate the array
+    // Used a loop to populate the array
     for (int i = 0; i < SIZE; i++) {
         cout << "Enter value " << (i + 1) << ": ";
         cin >> arr[i];
